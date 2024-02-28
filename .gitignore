@@ -1,0 +1,35 @@
+# Target
+
+target/
+*/.mvn/
+
+# File log
+
+*.log
+*.tmp
+*.pid
+
+# File database
+
+*.db
+*.sql
+
+# File IDE
+
+.idea/
+.project
+.classpath
+.settings/
+
+# File konfigurasi lokal
+
+*.properties
+*.yaml
+
+# File yang dikompilasi
+
+*.class
+
+# File tes
+
+**/test/
